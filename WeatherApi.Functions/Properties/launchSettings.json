@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "WeatherApi.Functions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7239",
+      "launchBrowser": false
+    }
+  }
+}
